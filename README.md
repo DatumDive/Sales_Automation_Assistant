@@ -33,7 +33,7 @@ Welcome to the repository for the AI Engineer Recruitment Challenge at Antematte
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ai-engineer-recruitment-challenge
+   cd Antematter_AI_Engineer_Challenge
     ```
 3. Install the required packages:
    ```bash
