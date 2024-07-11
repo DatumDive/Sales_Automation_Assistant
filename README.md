@@ -1,7 +1,6 @@
-# AI Engineer Recruitment Challenge
+# Sales Automation Assist
 
-Welcome to the repository for the AI Engineer Recruitment Challenge at Antematter. This project is designed to assist the sales department at Antematter with automated processing tasks using two primary agents: the Opener Agent and the Escalator Agent.
-
+This project is designed to assist the sales department with automated processing tasks using two primary agents: the Opener Agent and the Escalator Agent.
 
 ## Overview
 
@@ -29,11 +28,11 @@ Welcome to the repository for the AI Engineer Recruitment Challenge at Antematte
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuhammadAhmedSuhail/Antematter_AI_Engineer_Challenge.git
+   git clone https://github.com/MuhammadAhmedSuhail/Sales_Automation_Assist.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Antematter_AI_Engineer_Challenge
+   cd Sales_Automation_Assist
     ```
 3. Install the required packages:
    ```bash
