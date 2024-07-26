@@ -28,7 +28,7 @@ This project is designed to assist the sales department with automated processin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuhammadAhmedSuhail/Sales_Automation_Assist.git
+   git clone https://github.com/DatumDive/Sales_Automation_Assistant.git
    ```
 2. Navigate to the project directory:
    ```bash
